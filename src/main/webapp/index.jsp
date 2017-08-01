@@ -8,6 +8,7 @@
 <body>
 
 	<h1>Linksoftware Sample War</h1>
+	<h3>Spring Boot</h3>
 	
 	<%=new java.util.Date().toString() %>
 
